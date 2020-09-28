@@ -1,0 +1,6 @@
+{
+  "cloudvideo": false,
+  "register": "ws://icloud.huayuan-iot.com:9999",
+  "data": "ws://icloud.huayuan-iot.com:9991",
+  "reconnectPeriod": 5000
+}
